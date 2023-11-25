@@ -10,14 +10,6 @@ I'm currently working on various web development projects, including:
 - Implementing internationalization (i18n) support for a client's website to provide multi-language support using Next.js and i18next.
 - Enhancing the user experience and performance of an existing web application through code optimization and implementing new features.
 
-## 🌱 What I'm Learning
-
-As a continuous learner, I'm always expanding my skillset. Here are some of the technologies and topics I'm currently diving into:
-
-- Learning new  implementations of Next.js 13, like client and server components
-- Best practices for localization and internationalization to create multilingual applications.
-- Exploring advanced features and customization options in Strapi to build robust and scalable backends for web applications.
-
 ## 💼 Work Experience
 
 I work full-time as a **frontend engineer** at Recommend. My responsibilities include:
